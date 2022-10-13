@@ -1,0 +1,5 @@
+result = models.tribes.query.all()
+
+result = models.location.query.all()
+
+result = models.art.query.all()
